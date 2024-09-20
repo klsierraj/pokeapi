@@ -55,7 +55,7 @@ Este proyecto consume datos de la PokéAPI y los expone a través de una API RES
      ```
 
 3. **Obtener un Pokémon con traducciones de tipos**  
-   - URL: [GET /api/pokemonAndTypes/:id](https://pokeapi-klsierraj-kevin-sierras-projects.vercel.app/api/pokemonAndTypes/1)  
+   - URL: [GET /api/pokemonAndTypes/:id](https://pokeapi-klsierraj-kevin-sierras-projects.vercel.app/api/pokemon/pokemonAndTypes/1)  
    - Ejemplo de respuesta:
      ```json
      {
