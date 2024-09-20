@@ -114,10 +114,3 @@ Se han implementado tests utilizando **Jest** para garantizar que las funcionali
 Para ejecutar las pruebas, usa el siguiente comando:
 ```bash
 npm run test
-
-```markdown
-![tests](tests.png)
-
-
-
-
