@@ -116,7 +116,7 @@ Para ejecutar las pruebas, usa el siguiente comando:
 npm run test
 
 ```markdown
-![tests](./tests.png)
+![tests](tests.png)
 
 
 
