@@ -116,7 +116,7 @@ Para ejecutar las pruebas, usa el siguiente comando:
 npm run test
 
 ```markdown
-![Diagrama de la API](https://iili.io/diIKbAx.png)
+![tests](./tests.png)
 
 
 
