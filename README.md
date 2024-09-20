@@ -113,7 +113,11 @@ Se han implementado tests utilizando **Jest** para garantizar que las funcionali
 
 Para ejecutar las pruebas, usa el siguiente comando:
 ```bash
-npm run test   
+npm run test
 
-![tests-passing](https://iili.io/diIKbAx.png)
+```markdown
+![Diagrama de la API](https://iili.io/diIKbAx.png)
+
+
+
 
