@@ -115,4 +115,5 @@ Para ejecutar las pruebas, usa el siguiente comando:
 ```bash
 npm run test   
 
-<img src="https://iili.io/diIKbAx.png" alt="diIKbAx.png" border="0" />
+![tests-passing](https://freeimage.host/i/screenshot-2024-09-20-162037.diIKbAx)
+
